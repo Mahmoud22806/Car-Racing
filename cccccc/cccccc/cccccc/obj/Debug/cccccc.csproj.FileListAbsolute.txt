@@ -1,0 +1,10 @@
+C:\Users\Mostafa\source\repos\cccccc\cccccc\bin\Debug\cccccc.exe.config
+C:\Users\Mostafa\source\repos\cccccc\cccccc\bin\Debug\cccccc.exe
+C:\Users\Mostafa\source\repos\cccccc\cccccc\bin\Debug\cccccc.pdb
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.csprojAssemblyReference.cache
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.me.resources
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.Properties.Resources.resources
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.csproj.GenerateResource.cache
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.exe
+C:\Users\Mostafa\source\repos\cccccc\cccccc\obj\Debug\cccccc.pdb
